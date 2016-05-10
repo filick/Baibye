@@ -12,4 +12,4 @@
 
 作者：filick
 
-欢迎大家试用，发现Bug或提出建议请在[GitHub](https://github.com/filick/InternetWater)项目主页中反馈。
+欢迎大家试用，发现Bug或提出建议请在[GitHub](https://github.com/filick/Baibye)项目主页中反馈。
